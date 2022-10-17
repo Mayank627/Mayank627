@@ -1,4 +1,4 @@
-Hi, I’m Mayank @mayankkkk____
+Hi, I’m Mayank Verma @mayankkkk____
 - 👀 I’m interested in DSA with C++
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on projects on Javascript
